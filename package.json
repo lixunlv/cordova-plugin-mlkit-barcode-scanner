@@ -34,14 +34,6 @@
     "/www/**/*.{js,js.map,d.ts}",
     "/plugin.xml"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MobisysGmbH/cordova-plugin-mlkit-barcode-scanner.git"
-  },
-  "homepage": "https://github.com/MobisysGmbH/cordova-plugin-mlkit-barcode-scanner#readme",
-  "publishConfig": {
-    "registry": "https://pkgs.dev.azure.com/mobisysgmbh/_packaging/mobisys/npm/registry/"
-  },
   "devDependencies": {
     "@rollup/plugin-commonjs": "20.0.0",
     "@rollup/plugin-node-resolve": "13.0.4",
